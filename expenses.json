@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-09-02",
+        "category": "food",
+        "amount": 250.0
+    },
+    {
+        "date": "2025-09-02",
+        "category": "travel",
+        "amount": 2000.0
+    },
+    {
+        "date": "2025-09-02",
+        "category": "rent",
+        "amount": 5500.0
+    },
+    {
+        "date": "2025-09-02",
+        "category": "food",
+        "amount": 300.0
+    },
+    {
+        "date": "2025-09-02",
+        "category": "1",
+        "amount": 240.0
+    },
+    {
+        "date": "2025-09-02",
+        "category": "travel",
+        "amount": 5000.0
+    }
+]
