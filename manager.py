@@ -9,7 +9,7 @@ import pyperclip
 import tkinter as tk
 from tkinter import messagebox,simpledialog
 
-MASTER_PASSWORD="bikshalunanna"
+MASTER_PASSWORD="your_password"
 DATA_FILE="data.json"
 KEY_FILE="key.key"
 def generate_key():
@@ -157,4 +157,5 @@ tk.Button(root,text="Add Password",command=add_password).pack(pady=5)
 tk.Button(root,text="Retrieve password",command=retrieve_password).pack(pady=5)
 tk.Button(root,text="Delete Password",command=delete_password).pack(pady=5)
 tk.Button(root,text="Generate strong password",command=generate_password_gui).pack(pady=5)
+
 root.mainloop()
